@@ -1,0 +1,5 @@
+{
+  "name": "ThaiStock AI Analyst",
+  "description": "แอปพลิเคชันวิเคราะห์ตลาดหุ้นไทยด้วย AI สำหรับนักลงทุนและเจ้าหน้าที่การเงิน แสดงข้อมูลราคา Real-time (จำลอง) กราฟเทคนิค และบทวิเคราะห์จาก Gemini",
+  "requestFramePermissions": []
+}
